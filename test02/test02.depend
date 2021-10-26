@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1633427392 source:c:\users\scitrain\documents\d-test01\test02\main.cpp
+	<iostream>
+	<stdio.h>
+
