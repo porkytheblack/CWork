@@ -1,6 +1,8 @@
 #include <stdio.h>
 
 void main(){
+    int i = 0;
+    int n  = 0;
     char course_names[7][50] = {
         "Programming Lab",
         "Discreet Math",
@@ -11,13 +13,14 @@ void main(){
         "Introduction to programming"
     };
     int course_grades[7];
-    for(int i = 0; i < 7; i++){
+    while(i < 7){
         printf("Enter your marks is %s: \n", course_names[i]);
         scanf("%d", &course_grades[i]);
+        i++;
     }
     printf("\t\t\tYour Marks\n");
-    for(int i = 0; i < 7; i++){
-        printf(" %s \t\t\t %d \n", course_names[i], course_grades[i]);
-
+    while(n < 7){
+        printf(" %s \t\t\t %d \n", course_names[n], course_grades[n]);
+        n++;
     }
 }
