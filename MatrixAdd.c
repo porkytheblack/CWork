@@ -30,7 +30,7 @@ void main(){
         }
     }
 
-    //this loop iteates over the values from the two different matrices and adds them
+    //this loop iterates over the values from the two different matrices and adds them
     for(int i =0; i < 2; i++){
         for(int a = 0; a < 3; a++){
             for(int b =0; b < 3; b++){
