@@ -1,0 +1,11 @@
+		                             re                             rg 
+                                                 COURSE NAME                MARKS GRADE 
+                                             Programming Lab                   56 C 
+                                        Intro to programming                   76 B 
+                                               Discreet Math                   45 D 
+                                   Intro to Computer Systems                   76 B 
+                                       Physics for Computing                   56 C 
+                                                   Economics                   87 A 
+                                        Communication Skills                   89 A 
+
+
