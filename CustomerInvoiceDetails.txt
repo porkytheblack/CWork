@@ -1,0 +1,40 @@
+
+--------------------------------------------- 1 ---------------------------------------
+Customer Name:                   33                   33
+Date: 6422008/11/11
+		Items Ordered
+	              Item Name                          Item Price
+1                                                 11                   11 
+2                                                 11                   11 
+Total Price 		 22
+--------------------------------------------- 1 ---------------------------------------
+Customer Name:              wwwwwww               eeeeee
+Date: 6422008/22/22
+		Items Ordered
+ Item Name                               Item Price
+1                                                eee 23.00 
+Total Price 		 23.00
+--------------------------------------------- 2 ---------------------------------------
+Customer Name:            wwwwwwwww             dddddddd
+Date: 6422008/11/22
+		Items Ordered
+ Item Name                               Item Price
+1                                           wwwwwwww 22.00 
+2                                             wwssss 23.00 
+3                                            wwwwwww 32.00 
+Total Price 		 77.00
+--------------------------------------------- New Order ---------------------------------------
+Customer Name:             ssssssss              ddddddd
+Date: 11/11/11
+		Items Ordered
+ Item Name                               Item Price
+1                                            ddddddd 11.00 
+Total Price 		 11.00
+--------------------------------------------- New Order ---------------------------------------
+Customer Name:              wwwwwww              sssssss
+Date: 22/22/22
+		Items Ordered
+ Item Name                               Item Price
+1                                                eww 21.00 
+2                                                eds 5432.00 
+Total Price 		 5180.35

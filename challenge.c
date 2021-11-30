@@ -4,26 +4,20 @@
 
 void main()
 {
-//declaring variables
-
-char menu;
 int choice;
 int num1;
 int num2;
-int add,mult,div,sub;
-int beginners, medium_level, high_level;
-int switch_variable;
+int i, j, a[20], b[20];
+int switch_variable
 
-//menu
+printf("Choose a function:\n1Sorts the array in descending order.\n2Finds the minimum number.\n3Finds the maximum number.\n4Calculates the average of the numbers.\5Calculates the standards deviationof the numbers. ");
+scanf("%d",&choice);
 
+switch(switch_variable)
 {
-printf("Choose a level:\n1 for beginners(1-10)\n2 for middle_level(11-50)\n3 for high level(51-100)\n");
-scanf("%d",&choice);
+    case 1
+
 }
-
-printf("Choose the operation to practice with:\nA for addition\nB for subtraction\nC for multiplication\nD for division\n");
-scanf("%d",&choice);
-
 }
 
 
